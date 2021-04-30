@@ -1,5 +1,5 @@
 # Pandas_pymoli
-This prject demonstrates the use of the pandas library with Jupyter notebooks using DataFrames, groupby, descriptive statistics and binning 
+
 
 # Observable Trends:
  Based on grouping players by Age and Gender, the target market are Males between 15 and 29. 
