@@ -14,7 +14,5 @@
   
   # Screen Shot:
  
- percentage of male to female players
-  
-  age bin of purchasers.
+![image](https://user-images.githubusercontent.com/71241257/116801000-992edb80-aacb-11eb-833f-d7c799977ab3.png); ![image](https://user-images.githubusercontent.com/71241257/116800984-73a1d200-aacb-11eb-8d8a-927c65cabc29.png)
 
